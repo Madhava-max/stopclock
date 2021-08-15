@@ -1,0 +1,14 @@
+C:\Users\kotha\source\repos\clock\bin\Debug\netcoreapp3.1\clock.exe
+C:\Users\kotha\source\repos\clock\bin\Debug\netcoreapp3.1\clock.deps.json
+C:\Users\kotha\source\repos\clock\bin\Debug\netcoreapp3.1\clock.runtimeconfig.json
+C:\Users\kotha\source\repos\clock\bin\Debug\netcoreapp3.1\clock.runtimeconfig.dev.json
+C:\Users\kotha\source\repos\clock\bin\Debug\netcoreapp3.1\clock.dll
+C:\Users\kotha\source\repos\clock\bin\Debug\netcoreapp3.1\clock.pdb
+C:\Users\kotha\source\repos\clock\obj\Debug\netcoreapp3.1\clock.csproj.AssemblyReference.cache
+C:\Users\kotha\source\repos\clock\obj\Debug\netcoreapp3.1\clock.AssemblyInfoInputs.cache
+C:\Users\kotha\source\repos\clock\obj\Debug\netcoreapp3.1\clock.AssemblyInfo.cs
+C:\Users\kotha\source\repos\clock\obj\Debug\netcoreapp3.1\clock.csproj.CoreCompileInputs.cache
+C:\Users\kotha\source\repos\clock\obj\Debug\netcoreapp3.1\clock.dll
+C:\Users\kotha\source\repos\clock\obj\Debug\netcoreapp3.1\clock.pdb
+C:\Users\kotha\source\repos\clock\obj\Debug\netcoreapp3.1\clock.genruntimeconfig.cache
+C:\Users\kotha\source\repos\clock\obj\Debug\netcoreapp3.1\clock.GeneratedMSBuildEditorConfig.editorconfig
